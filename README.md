@@ -17,14 +17,42 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Despliegue de la Aplicación
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://gentle-scrubland-60628.herokuapp.com/)
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://storageietilab4.z13.web.core.windows.net/)
+[Firebase Link 1](https://taks-planner-app-676c2.web.app/)
+
+[Firebase Link 2](https://taks-planner-app-676c2.firebaseapp.com/)
 
 ## Enunciado
-El enunciado del laboratorio está disponible [aquí](https://github.com/ieti-eci/1.4-react-js-task-planner-part2).
+El enunciado del laboratorio está disponible [aquí](https://github.com/ieti-eci/1.5-task-planner-pwa).
+## Parte 1 - Generación de Iconos
+No fue posible debido a que el sitio web no funcionó, no está disonible.
+
+![](Images/Imagen8.png)
+## Aplicación en Android
+
+### Sitio web de la aplicación
+
+![](Images/Imagen1.jpeg)
+
+### Descargando la aplicación
+
+![](Images/Imagen2.jpeg)
+
+### Aplicación Instalada
+
+![](Images/Imagen3.jpeg)
+
+### Utilizando la aplicación
+![](Images/Imagen4.jpeg)
+
+
+![](Images/Imagen5.jpeg)
+
+
+![](Images/Imagen6.jpeg)
+
 
 ## Autor
-Johann Sebastian Páez Campos - Laboratorio 04 IETI 10/09/2020
+Johann Sebastian Páez Campos - Laboratorio 05 IETI 24/09/2020
 
 
 ## Available Scripts
